@@ -10,7 +10,8 @@
 	 },	 
 	 {
 	 	"code" : "3",
-	 	"label" : "value3"
+	 	"label" : "value3",
+		 "imageUrl" : "https://raw.githubusercontent.com/innsotester/test/refs/heads/main/dune2%20(1).jpg"
 	 }
 	]
 }
