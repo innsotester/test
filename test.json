@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "code": "1",
+      "label": "Lidl (Germany)"
+    },
+    {
+      "code": "2",
+      "label": "Aldi Nord (Germany)"
+    },
+    {
+      "code": "3",
+      "label": "Aldi Süd (Germany)"
+    },
+    {
+      "code": "4",
+      "label": "REWE (Germany)"
+    },
+    {
+      "code": "5",
+      "label": "Edeka (Germany)"
+    },
+    {
+      "code": "6",
+      "label": "Kaufland (Germany)"
+    },
+    {
+      "code": "7",
+      "label": "Metro (Germany)"
+    },
+    {
+      "code": "8",
+      "label": "Tesco (UK)"
+    },
+    {
+      "code": "9",
+      "label": "Sainsbury's (UK)"
+    },
+    {
+      "code": "10",
+      "label": "Asda (UK)"
+    },
+    {
+      "code": "11",
+      "label": "Morrisons (UK)"
+    },
+    {
+      "code": "12",
+      "label": "Waitrose (UK)"
+    },
+    {
+      "code": "13",
+      "label": "Carrefour (France)"
+    },
+    {
+      "code": "14",
+      "label": "E.Leclerc (France)"
+    },
+    {
+      "code": "15",
+      "label": "Auchan (France)"
+    },
+    {
+      "code": "16",
+      "label": "Intermarché (France)"
+    },
+    {
+      "code": "17",
+      "label": "Casino (France)"
+    },
+    {
+      "code": "18",
+      "label": "SPAR (Netherlands)"
+    },
+    {
+      "code": "19",
+      "label": "Albert Heijn (Netherlands)"
+    },
+    {
+      "code": "20",
+      "label": "Jumbo (Netherlands)"
+    },
+    {
+      "code": "21",
+      "label": "Delhaize (Belgium)"
+    },
+    {
+      "code": "22",
+      "label": "Colruyt (Belgium)"
+    },
+    {
+      "code": "23",
+      "label": "Biedronka (Poland)"
+    },
+    {
+      "code": "24",
+      "label": "Żabka (Poland)"
+    },
+    {
+      "code": "25",
+      "label": "Netto (Poland)"
+    },
+    {
+      "code": "26",
+      "label": "Pingo Doce (Portugal)"
+    },
+    {
+      "code": "27",
+      "label": "Continente (Portugal)"
+    },
+    {
+      "code": "28",
+      "label": "Mercadona (Spain)"
+    },
+    {
+      "code": "29",
+      "label": "Dia (Spain)"
+    },
+    {
+      "code": "30",
+      "label": "Eroski (Spain)"
+    },
+    {
+      "code": "31",
+      "label": "Maxima (Lithuania)"
+    },
+    {
+      "code": "32",
+      "label": "Rimi (Latvia)"
+    },
+    {
+      "code": "33",
+      "label": "Coop (Switzerland)"
+    },
+    {
+      "code": "34",
+      "label": "Migros (Switzerland)"
+    },
+    {
+      "code": "35",
+      "label": "ICA (Sweden)"
+    },
+    {
+      "code": "36",
+      "label": "Axfood (Sweden)"
+    },
+    {
+      "code": "37",
+      "label": "REMA 1000 (Norway)"
+    },
+    {
+      "code": "38",
+      "label": "NorgesGruppen (Norway)"
+    },
+    {
+      "code": "39",
+      "label": "Sklavenitis (Greece)"
+    },
+    {
+      "code": "40",
+      "label": "Alphamega (Cyprus)"
+    },
+    {
+      "code": "41",
+      "label": "Billa (Austria)"
+    },
+    {
+      "code": "42",
+      "label": "Hofer (Austria)"
+    },
+    {
+      "code": "43",
+      "label": "Konzum (Croatia)"
+    },
+    {
+      "code": "44",
+      "label": "Plodine (Croatia)"
+    },
+    {
+      "code": "45",
+      "label": "Spar (Slovenia)"
+    },
+    {
+      "code": "46",
+      "label": "Mercator (Slovenia)"
+    },
+    {
+      "code": "47",
+      "label": "CBA (Hungary)"
+    },
+    {
+      "code": "48",
+      "label": "Penny Market (Hungary)"
+    },
+    {
+      "code": "49",
+      "label": "Profi (Romania)"
+    },
+    {
+      "code": "50",
+      "label": "Mega Image (Romania)"
+    }
+  ]
+}
