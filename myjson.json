@@ -5,15 +5,6 @@
 	 	"label" : "value1"
 	 },
 	 {
-	 	"code" : "2",
-	 	"label" : "value2"
-	 },	 
-	 {
-	 	"code" : "3",
-	 	"label" : "value3",
-		 "imageUrl" : "https://e-leclerc.scene7.com/is/image/gtinternet/3564700047453"
-	 },
-	 {
 	 	"code" : "4",
 	 	"label" : "my value4",
    	        "imageUrl" : "https://e-leclerc.scene7.com/is/image/gtinternet/3564700047453"
