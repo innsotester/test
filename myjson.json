@@ -21,6 +21,10 @@
 	 {
 	 	"code" : "5",
 	 	"label" : "my value5"		 
-	 }
+	 },
+	 {
+	 	"code" : "6",
+	 	"label" : "my value6"		 
+	 }		
 	]
 }
