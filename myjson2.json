@@ -1,13 +1,5 @@
 {
-	"data" : [
-	 {
-	 	"code" : "1",
-	 	"label" : "value1"
-	 },
-	 {
-	 	"code" : "2",
-	 	"label" : "value2"
-	 },	 
+	"data" : [	
          {
 	 	"code" : "8",
 	 	"label" : "value8",
@@ -17,6 +9,10 @@
 	 	"code" : "9",
 	 	"label" : "value9",
 		"imageUrl" : "https://github.com/innsotester/test/blob/main/dune3.jpg?raw=true"
+	 },
+	{
+	 	"code" : "10",
+	 	"label" : "value10"		
 	 }
 	]
 }
