@@ -13,7 +13,11 @@
 	{
 	 	"code" : "10",
 	 	"label" : "value10"
-		"imageUrl" : "https://github.com/innsotester/test/blob/main/dune3.jpg?raw=true"
-	 }		
+	 },
+	{
+	 	"code" : "1",
+	 	"label" : "value1"
+		
+	 }			
 	]
 }
