@@ -13,10 +13,6 @@
 	{
 	 	"code" : "10",
 	 	"label" : "value10"		
-	 },
-	{
-	 	"code" : "11",
-	 	"label" : "value11"		
-	 }			
+	 }		
 	]
 }
