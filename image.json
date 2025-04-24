@@ -1,0 +1,28 @@
+{
+  "data" : [
+    {
+      "code" : "1",
+	 	  "label" : "Watching",
+		  "imageUrl" : "https://github.com/innsotester/test/blob/main/watching.jpg?raw=true"
+    },
+    {
+      "code" : "2",
+	 	  "label" : "Dune",
+		  "imageUrl" : "https://github.com/innsotester/test/blob/main/dune3.jpg?raw=true"
+    },
+    {
+      "code" : "3",
+	 	  "label" : "No image"		  
+    },
+    {
+      "code" : "4",
+	 	  "label" : "Bad image url",
+      "imageUrl" : "https://github.com/innsotester/test/blob/main/badurl.jpg?raw=true"
+    },
+    {
+      "code" : "5",
+	 	  "label" : "Not an image",
+      "imageUrl" : "https://raw.githubusercontent.com/innsotester/test/refs/heads/main/myjson.json"
+    },
+  ]
+}
