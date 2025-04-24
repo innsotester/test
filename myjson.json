@@ -6,10 +6,6 @@
 	 	"label" : "my value4",
    	        "imageUrl" : "https://e-leclerc.scene7.com/is/image/gtinternet/3564700047453"
 	 },
-	 {
-	 	"code" : "5",
-	 	"label" : "my value5"		 
-	 },
 	{
 	 	"code" : "8",
 	 	"label" : "value8",
@@ -26,6 +22,14 @@
 	 },
 	 {
 	 	"code" : "7",
+	 	"label" : "my value7"		 
+	 },
+	 {
+	 	"code" : "10",
+	 	"label" : "my value7"		 
+	 },
+	 {
+	 	"code" : 11",
 	 	"label" : "my value7"		 
 	 }	
 		
