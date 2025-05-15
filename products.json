@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "code": "1",
+      "label": "Banana",
+      "imageUrl": "cccccccccccccccc"
+    },
+    {
+      "code": "2",
+      "label": "Tomato",
+      "imageUrl": "https://github.com/innsotester/test/blob/main/Tomato_je.jpg?raw=true"
+    },
+    {
+      "code": "3",
+      "label": "Milk",
+      "imageUrl": "https://github.com/innsotester/test/blob/main/milk.jpg?raw=true"                   
+    },
+    {
+      "code": "4",
+      "label": "Bread"
+    },
+    {
+      "code": "5",
+      "label": "Cheese"
+    },
+    {
+      "code": "6",
+      "label": "Strawberries",
+      "imageUrl": "https://github.com/innsotester/test/blob/main/PerfectStrawberry.jpg?raw=true"
+    },
+    {
+      "code": "7",
+      "label": "Eggs"
+    },
+    {
+      "code": "8",
+      "label": "Chicken Breast"
+    },
+    {
+      "code": "9",
+      "label": "Broccoli",
+      "imageUrl": "https://github.com/innsotester/test/blob/main/brocoli.jpg?raw=true"
+    },
+    {
+      "code": "10",
+      "label": "Yogurt"
+    },
+    {
+      "code": "11",
+      "label": "Carrots"
+    },
+    {
+      "code": "12",
+      "label": "Pasta",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTibuPbT75i5wU0tVlSAVViJ6RPl-4zwJsFT5uGxohCLII1-B4-RWuSIS4zTEE7TUn-1IyVzXKqaJMtqcTRgTWwnnZCIZJTRH4XGdzt1QihVaY9u4iuXNYz"
+    },
+    {
+      "code": "13",
+      "label": "Rice",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWN7bIlpz1e4uKg9bSBW3Tz8LkXWZih3Ws_gGRdyCLGUXTfc9y3VpnCAezaros_4rQNalWZw&s"
+    },
+    {
+      "code": "14",
+      "label": "Orange Juice"
+    },
+    {
+      "code": "15",
+      "label": "Apples",
+      "imageUrl": ""imageUrl": "https://github.com/innsotester/test/blob/main/Red_Apple.jpg?raw=true""
+    }
+  ]
+}
